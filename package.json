@@ -19,9 +19,9 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "prettier": "1.12.1"
+    "prettier": "^2.0.4"
   },
   "peerDependencies": {
-    "prettier": "^1.0.0"
+    "prettier": "^2.0.0"
   }
 }
